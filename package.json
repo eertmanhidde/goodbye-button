@@ -4,11 +4,16 @@
   "license": "MIT",
   "author": "logout-button",
   "version": "0.0.1",
+  "homepage": "https://github.com/eertmanhidde/goodbye-button",
   "main": "dist/src/index.js",
   "module": "dist/src/index.js",
   "exports": {
     ".": "./dist/src/index.js",
     "./logout-button.js": "./dist/src/logout-button.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eertmanhidde/goodbye-button"
   },
   "scripts": {
     "analyze": "cem analyze --litelement",
