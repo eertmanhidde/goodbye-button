@@ -2,6 +2,11 @@
 
 This webcomponent follows the [open-wc](https://github.com/open-wc/open-wc) recommendation.
 
+
+## Example
+
+![Example GIF](https://media.cleanshot.cloud/media/24716/37F39yTfsATNgM8KrdIayMAiGiU7Wpxz0HZ9HCrt.gif?Expires=1665337505&Signature=EaDhjAnw5tqskot8SPLnn-8nN0dEKaJCItODJHOJ1~t0E6fqZF-pdBEgk1ZKLUniSsq1gJtqMv6R73jkQPSG~Thdp-QLZuifR38feZ01bUxzfkPgLOru8cPMaxdE~95v0IcwlGIKDoX3~u5j8XdktUfn735tyNBoK~8DpA3cSDA~-2C8mv1WfpxH3j17YazdCG0mDs50CCpfN-JxFujwbVwM4M97w-Vwv0toQNJ-p2ADk8qlvfppYyyXNodjHudcJancObSBvqqVczxcUg65PzaRRUoXDA6Jtn~h-thWE-1cVM34rtgvDOwKCRFo5M12WGaFEBYHLyvtyyRVeqOtFg__&Key-Pair-Id=K269JMAT9ZF4GZ)
+
 ## Installation
 
 ```bash
